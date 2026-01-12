@@ -1,0 +1,182 @@
+[
+{
+  "model": "activities.activity",
+  "pk": 2,
+  "fields": {
+    "owner": 2,
+    "job": 1,
+    "due_date": "2022-09-20",
+    "notes": "Apply via ZoomInfo job listing: https://www.zoominfo.com/about/careers?gh_jid=6353193002",
+    "completed_status": false,
+    "category": "Apply"
+  }
+},
+{
+  "model": "activities.activity",
+  "pk": 3,
+  "fields": {
+    "owner": 2,
+    "job": 2,
+    "due_date": "2022-09-11",
+    "notes": "",
+    "completed_status": true,
+    "category": "Apply"
+  }
+},
+{
+  "model": "activities.activity",
+  "pk": 4,
+  "fields": {
+    "owner": 2,
+    "job": 2,
+    "due_date": "2022-09-14",
+    "notes": "Respond to schedule screening call",
+    "completed_status": false,
+    "category": "Email: Response Required"
+  }
+},
+{
+  "model": "activities.activity",
+  "pk": 5,
+  "fields": {
+    "owner": 2,
+    "job": 2,
+    "due_date": "2022-09-10",
+    "notes": "",
+    "completed_status": true,
+    "category": "Job-Specific Resume"
+  }
+},
+{
+  "model": "activities.activity",
+  "pk": 6,
+  "fields": {
+    "owner": 2,
+    "job": 3,
+    "due_date": "2022-09-02",
+    "notes": "",
+    "completed_status": false,
+    "category": "Apply"
+  }
+},
+{
+  "model": "activities.activity",
+  "pk": 7,
+  "fields": {
+    "owner": 2,
+    "job": 3,
+    "due_date": "2022-09-06",
+    "notes": "Initial Phone Screening",
+    "completed_status": false,
+    "category": "Call: Response Required"
+  }
+},
+{
+  "model": "activities.activity",
+  "pk": 8,
+  "fields": {
+    "owner": 2,
+    "job": 3,
+    "due_date": "2022-09-07",
+    "notes": "Spoke with Kevin Luong",
+    "completed_status": true,
+    "category": "Phone Interview"
+  }
+},
+{
+  "model": "activities.activity",
+  "pk": 9,
+  "fields": {
+    "owner": 2,
+    "job": 3,
+    "due_date": "2022-09-19",
+    "notes": "",
+    "completed_status": true,
+    "category": "On Site Interview"
+  }
+},
+{
+  "model": "activities.activity",
+  "pk": 10,
+  "fields": {
+    "owner": 2,
+    "job": 4,
+    "due_date": "2022-08-28",
+    "notes": "",
+    "completed_status": true,
+    "category": "Apply"
+  }
+},
+{
+  "model": "activities.activity",
+  "pk": 11,
+  "fields": {
+    "owner": 2,
+    "job": 4,
+    "due_date": "2022-09-04",
+    "notes": "Check on application status",
+    "completed_status": false,
+    "category": "Follow Up"
+  }
+},
+{
+  "model": "activities.activity",
+  "pk": 12,
+  "fields": {
+    "owner": 2,
+    "job": 4,
+    "due_date": "2022-09-12",
+    "notes": "10:00 AM EST via Zoom",
+    "completed_status": false,
+    "category": "Video Interview"
+  }
+},
+{
+  "model": "activities.activity",
+  "pk": 13,
+  "fields": {
+    "owner": 2,
+    "job": 5,
+    "due_date": "2022-08-30",
+    "notes": "",
+    "completed_status": true,
+    "category": "Apply"
+  }
+},
+{
+  "model": "activities.activity",
+  "pk": 14,
+  "fields": {
+    "owner": 2,
+    "job": 5,
+    "due_date": "2022-09-08",
+    "notes": "No longer interested",
+    "completed_status": true,
+    "category": "Other"
+  }
+},
+{
+  "model": "activities.activity",
+  "pk": 15,
+  "fields": {
+    "owner": 2,
+    "job": 6,
+    "due_date": "2022-09-16",
+    "notes": "",
+    "completed_status": true,
+    "category": "Offer: Response Required"
+  }
+},
+{
+  "model": "activities.activity",
+  "pk": 20,
+  "fields": {
+    "owner": 2,
+    "job": 11,
+    "due_date": "2022-09-19",
+    "notes": "",
+    "completed_status": true,
+    "category": "Apply"
+  }
+}
+]
