@@ -1,0 +1,92 @@
+[
+{
+  "model": "companies.company",
+  "pk": 1,
+  "fields": {
+    "owner": 2,
+    "job": 1,
+    "name": "ZoomInfo",
+    "industry": "Software Development",
+    "hq_location": "Vancouver, Washington",
+    "size": "1,001-5,000 employees",
+    "type": "Public Company",
+    "company_url": "http://zoominfo.com",
+    "description": "ZoomInfo (Nasdaq: ZI) is a global leader in go-to-market intelligence solutions. \n\nOur platform empowers business-to-business sales, marketing, and recruiting professionals to hit their number by pairing best-in-class technology with unrivaled data coverage, accuracy, and depth of contacts. The company’s large and diversified customer base consists of over 20,000 customers from global enterprises, mid-market companies, and small businesses."
+  }
+},
+{
+  "model": "companies.company",
+  "pk": 2,
+  "fields": {
+    "owner": 2,
+    "job": 2,
+    "name": "Beacon Hill Staffing Group",
+    "industry": "Staffing and Recruiting",
+    "hq_location": "Boston, MA",
+    "size": "1,001 - 5,000 employees",
+    "type": "Public Company",
+    "company_url": "http://www.beaconhillstaffing.com",
+    "description": "Beacon Hill Staffing Group was founded to set a new standard in search, career placement and flexible staffing.\n\nOur niche brands provide direct hire, executive search, temporary staffing, contract consulting and temp/contract-to-hire solutions to emerging growth companies and the Fortune 500 across market sectors, career specialties/disciplines and industries.  Over time, office locations, specialty practice areas and service offerings will be added to address ever changing constituent needs."
+  }
+},
+{
+  "model": "companies.company",
+  "pk": 4,
+  "fields": {
+    "owner": 2,
+    "job": 4,
+    "name": "SCA Health",
+    "industry": "Hospitals and Health Care",
+    "hq_location": "Deerfield, IL",
+    "size": "10,001+ employees",
+    "type": "Private Company",
+    "company_url": "http://www.sca.health",
+    "description": "Our updated brand represents the evolution of our business— all that we are today and all that we will become. It also represents our growth into many aspects of specialty care as we support physician specialists, care for even more patients and welcome new partners to our family of businesses. The new SCA Health logo symbolizes our momentum and our look ahead as we continue to transform the future specialty care across America."
+  }
+},
+{
+  "model": "companies.company",
+  "pk": 5,
+  "fields": {
+    "owner": 2,
+    "job": 5,
+    "name": "Dice",
+    "industry": "Software Development",
+    "hq_location": "Centennial, Colorado",
+    "size": "1,001-5,000 employees",
+    "type": "Public Company",
+    "company_url": "http://www.dice.com",
+    "description": "Dice’s tech-focused career marketplace enables direct, meaningful connections between recruiters and technologists. Our connection tools, unrivaled matching capabilities, and branding opportunities speed up the vetting process, reduce time-to-hire and establish trust, making it easy to build a talent pipeline for current and future roles. \n\nWe empower you with: \n\n- Real-time connections via instant messaging. Connect with job applicants and target profiles in TalentSearch to immediately reach the most suitable tech candidates. \n\n- Powerful tools including branded company pages, targeted marketing efforts, and a recruiter profile to detail your corporate and hiring philosophy, areas of strength in tech, status updates, upcoming events, and additional hiring needs.  \n\n- The most complete technologist information to assist in sourcing, featuring the most detailed candidate profiles with an overview of skills, experiences, titles and preferences. \n\n- Best-in-class AI, personalized to your company and hiring requirements, designed to filter candidates to deliver the best matches.  \n\n- More transparency in your interactions with our user-friendly layout, which enables you to quickly understand a technologist’s experience and goals, while also sharing your background and building credibility with your recruiter profile."
+  }
+},
+{
+  "model": "companies.company",
+  "pk": 6,
+  "fields": {
+    "owner": 2,
+    "job": 6,
+    "name": "DraftKings Inc.",
+    "industry": "Technolog, Information, Internet",
+    "hq_location": "New York, NY",
+    "size": "501-1,000 employees",
+    "type": "Public Compnay",
+    "company_url": "https://www.draftkings.com",
+    "description": "DraftKings Inc. is a digital sports entertainment and gaming company created to fuel the competitive spirit of sports fans with products that range across daily fantasy, regulated gaming and digital media. Headquartered in Boston, and launched in 2012 by Jason Robins, Matt Kalish and Paul Liberman, DraftKings is the only U.S.-based vertically integrated sports betting operator. DraftKings is a multi-channel provider of sports betting and gaming technologies, powering sports and gaming entertainment for operators in 17 countries. DraftKings’ Sportsbook is live with mobile and/or retail betting operations in the United States pursuant to regulations in Arizona, Colorado, Illinois, Indiana, Iowa, Michigan, Mississippi, New Hampshire, New Jersey, New York, Oregon, Pennsylvania, Tennessee, Virginia, West Virginia, and Wyoming. DraftKings’ daily fantasy sports product is available in 7 countries internationally with 15 distinct sports categories. DraftKings is the official daily fantasy partner of the NFL, MLB, NASCAR, PGA TOUR and UFC as well as an authorized gaming operator of the NBA and MLB, an official sports betting partner of the NFL, an official betting operator of PGA TOUR and the official betting operator of UFC. Launched in August 2021, DraftKings Marketplace is a digital collectibles ecosystem designed for mainstream accessibility that offers curated NFT drops and supports secondary-market transactions. DraftKings also owns Vegas Sports Information Network, Inc. (VSiN), a multi-platform broadcast and content company."
+  }
+},
+{
+  "model": "companies.company",
+  "pk": 11,
+  "fields": {
+    "owner": 2,
+    "job": 11,
+    "name": "General Assembly",
+    "industry": "Higher Education",
+    "hq_location": "New York, NY",
+    "size": "501-1,000 employees",
+    "type": "Educational",
+    "company_url": "https://ga.co/3jgvkdC",
+    "description": "We transform careers and teams — including more than one third of the Fortune 100 — through dynamic courses in coding, data, design, and business.\n\nToday’s complex, global economy requires a skilled workforce that can leverage technology to fuel success. Our pioneering, experiential education includes full-time and part-time courses taught on-campus, online, and on site with companies, giving individuals and teams flexible options for growth and development. Learn more about our programs at https://ga.co/2yt8KJF.\n\nOur global network of 40,000+ full- and part-time alumni and 10,000+ hiring partners provide recent graduates with opportunities to find jobs and make connections, setting them up for success on the job, and in life.\n\nJoin us on campus to connect with local leaders at networking events, discover new interests in the classroom, and explore fresh ideas at expert-led workshops. \n\nIf you’ve taken a course at GA, we'd love to hear about your experience! Please review us on Course Report: https://ga.co/2q4TWdA or SwitchUp: https://ga.co/2Eka27c"
+  }
+}
+]

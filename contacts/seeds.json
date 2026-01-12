@@ -1,0 +1,171 @@
+[
+{
+  "model": "contacts.contact",
+  "pk": 1,
+  "fields": {
+    "owner": 2,
+    "job": 1,
+    "first_name": "Jacquie",
+    "last_name": "L",
+    "title": "Talent Acquisition Specialist",
+    "phone": "123-456-7890",
+    "email": "jacquie@zoominfo.com"
+  }
+},
+{
+  "model": "contacts.contact",
+  "pk": 2,
+  "fields": {
+    "owner": 2,
+    "job": 1,
+    "first_name": "Joe",
+    "last_name": "Prespolis",
+    "title": "Executive Recruiter",
+    "phone": "123-456-7890",
+    "email": "joe@zoominfo.com"
+  }
+},
+{
+  "model": "contacts.contact",
+  "pk": 4,
+  "fields": {
+    "owner": 2,
+    "job": 2,
+    "first_name": "Abigail",
+    "last_name": "O'Connor",
+    "title": "Senior Staffing Consultant",
+    "phone": "123-456-7890",
+    "email": "abigail@beaconhillstaffing.com"
+  }
+},
+{
+  "model": "contacts.contact",
+  "pk": 5,
+  "fields": {
+    "owner": 2,
+    "job": 2,
+    "first_name": "Dale",
+    "last_name": "Stanford",
+    "title": "Software Developer",
+    "phone": "123-456-7890",
+    "email": "dale@beaconhillstaffing.com"
+  }
+},
+{
+  "model": "contacts.contact",
+  "pk": 6,
+  "fields": {
+    "owner": 2,
+    "job": 3,
+    "first_name": "Kevin",
+    "last_name": "Luong",
+    "title": "Corporate Technical Recruiter",
+    "phone": "123-456-7890",
+    "email": "kevin@symbiotic.com"
+  }
+},
+{
+  "model": "contacts.contact",
+  "pk": 7,
+  "fields": {
+    "owner": 2,
+    "job": 3,
+    "first_name": "Bill",
+    "last_name": "Stewart",
+    "title": "Principle Software Engineer",
+    "phone": "123-456-7890",
+    "email": "bill@symbiotic.com"
+  }
+},
+{
+  "model": "contacts.contact",
+  "pk": 8,
+  "fields": {
+    "owner": 2,
+    "job": 3,
+    "first_name": "Chris",
+    "last_name": "Moreira",
+    "title": "Software Engineering Director",
+    "phone": "123-456-7890",
+    "email": "chris@symbiotic.com"
+  }
+},
+{
+  "model": "contacts.contact",
+  "pk": 9,
+  "fields": {
+    "owner": 2,
+    "job": 4,
+    "first_name": "Fernando",
+    "last_name": "Foster",
+    "title": "Software Engineer",
+    "phone": "123-456-7890",
+    "email": "fernando@sca.com"
+  }
+},
+{
+  "model": "contacts.contact",
+  "pk": 10,
+  "fields": {
+    "owner": 2,
+    "job": 4,
+    "first_name": "Amy",
+    "last_name": "Lewis",
+    "title": "Senior Applications Developer",
+    "phone": "123-456-7890",
+    "email": "amy@sca.com"
+  }
+},
+{
+  "model": "contacts.contact",
+  "pk": 11,
+  "fields": {
+    "owner": 2,
+    "job": 5,
+    "first_name": "Thomas",
+    "last_name": "Miller",
+    "title": "Senior Software Developer",
+    "phone": "123-456-7890",
+    "email": "thomas@dice.com"
+  }
+},
+{
+  "model": "contacts.contact",
+  "pk": 12,
+  "fields": {
+    "owner": 2,
+    "job": 5,
+    "first_name": "Adam",
+    "last_name": "Jones",
+    "title": "Technology Recruiter",
+    "phone": "123-456-7890",
+    "email": "adam@dice.com"
+  }
+},
+{
+  "model": "contacts.contact",
+  "pk": 13,
+  "fields": {
+    "owner": 2,
+    "job": 5,
+    "first_name": "Jasmine",
+    "last_name": "Coller",
+    "title": "Account Executive",
+    "phone": "123-456-7890",
+    "email": "jasmine@dice.com"
+  }
+},
+{
+  "model": "contacts.contact",
+  "pk": 17,
+  "fields": {
+    "owner": 2,
+    "job": 11,
+    "first_name": "Kate",
+    "last_name": "Shea",
+    "title": "Student",
+    "phone": "123-456-7890",
+    "email": ""
+  }
+}
+]
