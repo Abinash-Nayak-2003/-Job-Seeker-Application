@@ -1,0 +1,92 @@
+[
+{
+  "model": "jwt_auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$dfTomtYF1BBFNV272lt5lQ$yabCGm1C9FlNsgIeE/DgyaPmRn5zUUrSJ71hklmfg5Q=",
+    "last_login": null,
+    "is_superuser": true,
+    "username": "kate",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2022-09-16T10:54:00.514Z",
+    "first_name": "",
+    "last_name": "",
+    "email": "daishea@gmail.com",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "jwt_auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$3AqanGUz7zmg3P846tY8AQ$4CEFrx8Sj1UonOHTQKiNVRkaKMeIqicShD4Sxx4a4So=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2022-09-16T10:55:26.021Z",
+    "first_name": "Kate",
+    "last_name": "Shea",
+    "email": "kdshea@gmail.com",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "jwt_auth.user",
+  "pk": 4,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$bIl7p8HU1sRaj3kpBTDb3L$9grJqs08RaJRx8z1KEgi48XVelrs6FnEVyJ38hyVRvw=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "sksurf",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2022-09-16T10:58:59.028Z",
+    "first_name": "Sumith",
+    "last_name": "Kumara",
+    "email": "sumith@gmail.com",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "jwt_auth.user",
+  "pk": 5,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$VXecFOgUsBCYQdzIBefeZC$+6ifyrl2/dgPtwgzlFnWpKeBJcsoQPd73SNRb7eAsqc=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "shelley",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2022-09-16T10:59:39.772Z",
+    "first_name": "Shelley",
+    "last_name": "Hollibaugh",
+    "email": "shelley@gmail.com",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "jwt_auth.user",
+  "pk": 6,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$DiGRJmMgvg5ZheWb6m15aA$Axb9hz5/gW450RCtzxQn1HWHWsisrFbcfAnGeYING70=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "kds35",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2022-09-16T13:09:01.098Z",
+    "first_name": "Kate",
+    "last_name": "Shea",
+    "email": "kds@mail.com",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]

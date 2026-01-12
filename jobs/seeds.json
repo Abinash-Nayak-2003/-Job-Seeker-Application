@@ -1,0 +1,135 @@
+[
+{
+  "model": "jobs.job",
+  "pk": 1,
+  "fields": {
+    "owner": 2,
+    "company_name": "ZoomInfo",
+    "created_at": "2022-09-16T11:21:46.799Z",
+    "title": "Software Engineer I",
+    "post_date": "2022-09-09",
+    "location": "Waltham, MA",
+    "salary": "$75,000/yr - $157,000/yr (LinkedIn est.)",
+    "benefits": "Bonuses, Equity, Hybrid Working Model",
+    "job_url": "https://www.linkedin.com/jobs/view/3260469419/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=IN_NETWORK&refId=CbSM92cJBmEzOV5%2F7U5oLQ%3D%3D&trackingId=fk43IGaKNvMRoBbioUEzPw%3D%3D&trk=flagship3_search_srp_jobs",
+    "requirements": "BA/BS in Computer Science or Computer Engineering preferred, Programming Certificate, or similar training/experience\nKnowledge of one or more of the following Java or C# or any other Object Oriented programming language, Angular or React, JavaScript, CSS, HTML\nHave a systematic problem-solving approach coupled with effective communication skills\nEnjoy working on a team where you constantly learn, experiment, and iterate quickly",
+    "description": "Explore and work with cutting-edge technologies and a tremendously large (and fantastically rich) data set.\nDesign, develop and deploy different services that scale, are highly available, and are easy to extend.\nSolve interesting and challenging problems alongside a great team of deeply technical engineers.\nCollaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies",
+    "job_status": "Saved",
+    "job_type": "Full Time"
+  }
+},
+{
+  "model": "jobs.job",
+  "pk": 2,
+  "fields": {
+    "owner": 2,
+    "company_name": "Beacon Hill Staffing Group",
+    "created_at": "2022-09-16T11:36:49.474Z",
+    "title": "Associate Software Engineer",
+    "post_date": "2022-09-10",
+    "location": "Boston, MA",
+    "salary": "$81 - 125k / year",
+    "benefits": "Health and Dental Insurance, 401k Plan",
+    "job_url": "https://www.linkedin.com/jobs/view/3262476694/",
+    "requirements": "*The desire to put engineering skills and techniques to work for customers\n*Experience with or an interest to use technologies ranging from Node.js, Postgres, SQL, and other technologies to support data cleaning, transaction management, and database management.\n*Ownership mentality- taking pride in the work you do",
+    "description": "As an Associate Engineer on the Data Support Services Team, you will help advance this company's product data management and scientific data enrichment systems. These systems prepare materials to allow scientists to search millions of data rich records when ordering equipment, chemicals and lab consumables and provide suppliers with rich analytics about purchased products. You are a fit for the role if you enjoy working on end-to-end solutions in a collaborative environment. Ideally you have experience with e-commerce platforms, database systems and are comfortable working in a dynamic environment. You are thoughtful in your approach to design and engineer solutions that meet business demands while optimizing for system health, security and long-term maintenance.",
+    "job_status": "Applied",
+    "job_type": "Full Time"
+  }
+},
+{
+  "model": "jobs.job",
+  "pk": 3,
+  "fields": {
+    "owner": 2,
+    "company_name": "Symbotic",
+    "created_at": "2022-09-16T11:48:12.344Z",
+    "title": "Software Engineer",
+    "post_date": "2022-09-01",
+    "location": "Wilmington, MA",
+    "salary": "$96 - 117k / year",
+    "benefits": "Tuition Assistance, HSA, Paid Vacations",
+    "job_url": "https://www.linkedin.com/jobs/view/3254176015/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=CbSM92cJBmEzOV5%2F7U5oLQ%3D%3D&trackingId=ig6MjquHwroX1cV3iz%2FfPw%3D%3D&trk=flagship3_search_srp_jobs",
+    "requirements": "Bachelor’s degree in Engineering related discipline. (i.e. Computer Science, Mathematics, Electrical Engineering, etc.).\nExperience with Object Oriented Programming.\nHands-on problem solver with excellent software design and implementation skills.\nAble to work in a fast-paced environment and support unscheduled events.\nUnderstand source control (git preferred).\nComfortable with asynchronous or multithread programming, inter-process communication, and automated software testing.\nComfortable writing software in a managed language such as C# or Java.\nTesting and debugging experience is required while experience developing automated tests is preferred.\nExperience with a data analytics tools (plotting libraries, regex, ELK) is a plus.\nExperience with Linux and its commands is a plus.",
+    "description": "Design and develop real-time distributed software to communicate with and manage data for fleets of mobile robots and other warehouse automation hardware.\nPlay a hands-on role as part of an engineering team developing solutions for planning and scheduling the fleet of mobile robots.\nDemonstrate passion about building high quality software, love solving problems and facing new challenges. \nBe a proactive communicator who enjoys working closely with creative and technical peers. \nWork in a dynamic Agile/Scrum based environment.",
+    "job_status": "Interview",
+    "job_type": "Full Time"
+  }
+},
+{
+  "model": "jobs.job",
+  "pk": 4,
+  "fields": {
+    "owner": 2,
+    "company_name": "SCA Health",
+    "created_at": "2022-09-16T11:59:41.088Z",
+    "title": "Application Developer",
+    "post_date": "2022-08-25",
+    "location": "Remote (USA)",
+    "salary": "$99 -107k /year",
+    "benefits": "Retirement Savings Plan, PTO, Medical/Dental/Vision",
+    "job_url": "https://www.linkedin.com/jobs/view/3247042298/?eBP=CwEAAAGDRgWk-3SjJEvuah7MnC6unOfsIHQQSvJ1YfQmbzJZ05oU4jz_O5sc0N7GDHQMgtlMWk8nZr10Jw1gguGGiEGd5Kn_1JzD",
+    "requirements": "1-8 years of Industry Software Development Experience.\nProgramming experience with an Object Oriented or Functional programming language.\nUnderstanding of web programming\nC#/.NET, and SQL Server a plus.\nPhysical Requirements: None.",
+    "description": "Working as a member of a development team under the guidance and direction of a Senior Application Developer to create custom enterprise applications for customers across SCA.\nHaving a passion to learn and grow both technically and professionally.\nAble to lead the technical side of small development projects.\nEnsuring there is a focus on delivering rich user experiences that meets user’s needs.\nBeing accountable for their own development delivery commitments and quality.\nBuilding influence within the development team to help with future technology and methodology decisions.",
+    "job_status": "Interview",
+    "job_type": "Full Time"
+  }
+},
+{
+  "model": "jobs.job",
+  "pk": 5,
+  "fields": {
+    "owner": 2,
+    "company_name": "Dice- Beacon Hill Technologies",
+    "created_at": "2022-09-16T12:12:00.531Z",
+    "title": "Associate Software Engineer",
+    "post_date": "2022-08-01",
+    "location": "Boston, MA",
+    "salary": "$83-129k /year",
+    "benefits": "Commuter Benefits, Competitive Salary",
+    "job_url": "https://www.linkedin.com/jobs/view/3263871696/?alternateChannel=sea",
+    "requirements": "Make meaningful contributions to Labviva's data capture and preparation systems aiding its evolution and advancement, while gaining skills in key technologies.\nBalance adding new functionality with reliability, maintenance, performance and security objectives under an agile framework.\nContribute to an engineering culture of shipping great products.\nBuild integrations with third party APIs for handling marketplace order transactions.\nApproach the role with an ownership mentality, taking pride in the services we produce.\nSupport and learn from other members of the team fostering a culture of inclusiveness and respect.",
+    "description": "As an Associate Engineer on the Data Support Services Team, you will help advance Labviva's product data management and scientific data enrichment systems. These systems prepare materials to allow scientists to search millions of data rich records when ordering equipment, chemicals and lab consumables and provide suppliers with rich analytics about purchased products. You are a fit for the role if you enjoy working on end-to-end solutions in a collaborative environment. Ideally you have experience with e-commerce platforms, database systems and are comfortable working in a dynamic environment. You are thoughtful in your approach to design and engineer solutions that meet business demands while optimizing for system health, security and long-term maintenance.",
+    "job_status": "Declined",
+    "job_type": "Full Time"
+  }
+},
+{
+  "model": "jobs.job",
+  "pk": 6,
+  "fields": {
+    "owner": 2,
+    "company_name": "DraftKings Inc.",
+    "created_at": "2022-09-16T12:50:26.816Z",
+    "title": "Software Engineer",
+    "post_date": "2022-08-25",
+    "location": "Boston, MA",
+    "salary": "$100,000/yr - $129,000/yr (LinkedIn Est.)",
+    "benefits": "Stock options, Sign-On Bonus, Referral Bonus",
+    "job_url": "https://www.linkedin.com/jobs/view/3262326128/?refId=f2ef0be9-b210-4df6-865c-ded661101eff&trackingId=LakU8n%2B%2BTgmjUGnl9JmwoQ%3D%3D",
+    "requirements": "Experience across multiple courses where writing software is a primary element.\nHands-on experience with Git in a shared repository.\nComfort in picking up new languages and technologies quickly.\nExposure to object-oriented languages (e.g. Java, C#).\nCollaborative, team-based implementation, either in an internship or project setting.\nExperience writing unit tests.",
+    "description": "You will be developing systems and APIs that power a rich set of applications used by a large and passionate group of users every day.\nCare about agility as much as you care about scalability. We roll out products very quickly and are looking for a team that can pivot at a moment’s notice.\nTriage and debug software application issues.\nWork with modern technologies on scalable, reliable systems that people use in a 24/7 sports betting market.\nContribute to production code immediately.",
+    "job_status": "Offer",
+    "job_type": "Full Time"
+  }
+},
+{
+  "model": "jobs.job",
+  "pk": 11,
+  "fields": {
+    "owner": 2,
+    "company_name": "General Assembly",
+    "created_at": "2022-09-16T15:28:13.935Z",
+    "title": "Student",
+    "post_date": "2022-09-07",
+    "location": "Remote",
+    "salary": "test",
+    "benefits": "test",
+    "job_url": "https://generalassemb.ly/",
+    "requirements": "test",
+    "description": "test",
+    "job_status": "Saved",
+    "job_type": "Internship"
+  }
+}
+]

@@ -1,0 +1,80 @@
+[
+{
+  "model": "notes.note",
+  "pk": 1,
+  "fields": {
+    "owner": 2,
+    "job": 1,
+    "excitement": "90",
+    "notes": "July 2023 start date",
+    "questions": "What are the expectations for this role?",
+    "pros": "Engineering Development Program",
+    "cons": "Not entirely remote."
+  }
+},
+{
+  "model": "notes.note",
+  "pk": 2,
+  "fields": {
+    "owner": 2,
+    "job": 2,
+    "excitement": "80",
+    "notes": "Reach out to Abby O'Connor- she works here",
+    "questions": "What types of skills is the team missing that you’re looking to fill with a new hire?",
+    "pros": "Close to home, Competitive salary",
+    "cons": "Not an industry I'm interested in"
+  }
+},
+{
+  "model": "notes.note",
+  "pk": 3,
+  "fields": {
+    "owner": 2,
+    "job": 3,
+    "excitement": "20",
+    "notes": "",
+    "questions": "How do you typically onboard employees?",
+    "pros": "Good family leave policy",
+    "cons": "Long Commute"
+  }
+},
+{
+  "model": "notes.note",
+  "pk": 4,
+  "fields": {
+    "owner": 2,
+    "job": 4,
+    "excitement": "70",
+    "notes": "",
+    "questions": "Who will I work with most closely? What other departments or units will I interact with?",
+    "pros": "Completely remote, Healthcare Industry",
+    "cons": "Bad reviews on GlassDoor"
+  }
+},
+{
+  "model": "notes.note",
+  "pk": 5,
+  "fields": {
+    "owner": 2,
+    "job": 5,
+    "excitement": "20",
+    "notes": "Not really interested",
+    "questions": "How would you describe a typical day in this position?",
+    "pros": "Close to home",
+    "cons": "No remote options"
+  }
+},
+{
+  "model": "notes.note",
+  "pk": 9,
+  "fields": {
+    "owner": 2,
+    "job": 11,
+    "excitement": "100",
+    "notes": "",
+    "questions": "",
+    "pros": "",
+    "cons": ""
+  }
+}
+]
